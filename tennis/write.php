@@ -2,7 +2,7 @@
     //データ受信
     $name = $_POST['name'];
     $title = $_POST['title'];
-    $body = $_POST['body'];
+    $body = strip_tags($_POST['body']);
     $pass = $_POST['pass'];
 
     //データ検査
