@@ -1,0 +1,18 @@
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+      <a class="navbar-brand" href="./index.php">サークルサイト</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+      <ul class="navbar-nav mr-auto">
+          <li class="nav-item"><a class="nav-link" href="./info.php">お知らせ</a></li>
+          <li class="nav-item"><a class="nav-link" href="./upload.html">画像アップロード</a></li>
+          <li class="nav-item"><a class="nav-link" href="./album.php">アルバム</a></li>
+          <li class="nav-item"><a class="nav-link" href="./bbs.php">掲示板</a></li>
+          <li class="nav-item"><a class="nav-link" href="./bbs2.php">掲示板内容表示</a></li>
+          <li class="nav-item"><a class="nav-link" href="./bbs3.php">掲示板内容削除</a></li>
+          <li class="nav-item"><a class="nav-link" href="./.php">ログアウト</a></li>
+</ul>
+      </div>
+    </nav>
