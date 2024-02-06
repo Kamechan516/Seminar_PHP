@@ -1,5 +1,7 @@
 <?php
 
+session_start();
+
 //ファイルを開く
 $fp = fopen("./data/log.txt", "a");
 

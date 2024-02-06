@@ -1,4 +1,7 @@
 <?php 
+
+session_start();
+
   $images = array();  // 画像ファイルのリストを格納する配列
   $num = 3; // 1ページに表示する画像の枚数
 
