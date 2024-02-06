@@ -1,4 +1,5 @@
 <?php
+
 //ファイルを開く
 $fp = fopen("./data/log.txt", "a");
 

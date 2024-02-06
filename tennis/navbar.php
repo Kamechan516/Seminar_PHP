@@ -12,7 +12,7 @@
           <li class="nav-item"><a class="nav-link" href="./bbs.php">掲示板</a></li>
           <li class="nav-item"><a class="nav-link" href="./bbs2.php">掲示板内容表示</a></li>
           <li class="nav-item"><a class="nav-link" href="./bbs3.php">掲示板内容削除</a></li>
-          <li class="nav-item"><a class="nav-link" href="./.php">ログアウト</a></li>
+          <li class="nav-item"><a class="nav-link" href="./logout.php">ログアウト</a></li>
 </ul>
       </div>
     </nav>
